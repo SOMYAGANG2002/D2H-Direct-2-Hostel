@@ -14,3 +14,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* @media screen and (max-width: 750px){ */
+
+  .margin{
+    margin-top: 10vh;
+  }
+  .header-bg{
+    background-color: rgba(0,0,0,0.9);
+}
+.mt-11{
+    margin-bottom: 11vh;
+}
+/* } */
